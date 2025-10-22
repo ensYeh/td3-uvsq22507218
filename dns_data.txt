@@ -1,0 +1,6 @@
+193.51.25.90 www.uvsq.fr
+124.21.15.1 config.google.com
+193.51.31.154 poste.uvsq.fr
+193.51.25.24 pikachu.uvsq.fr
+193.51.25.12 ecampus.uvsq.fr
+255.255.255.255 broadcast
